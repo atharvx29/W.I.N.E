@@ -1,4 +1,4 @@
-# W.I.N.E. - Winefully Intelligent Neural Entity
+# W.I.N.E. - Winely Intelligent Neural Entity
 
 A neural network-based wine classification system built with PyTorch. Classifies wines into three classes based on 13 chemical features using a feedforward neural network.
 
